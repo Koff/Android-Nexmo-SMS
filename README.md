@@ -8,4 +8,4 @@ Insert the API required fields in the settings menu, fill in your originator, de
 
 You can compile the code in Android Studio and run it in a phone with Android >= 4.3.3.
 
-![Screenshot](http://s11.postimg.org/mcntjogpf/main_screen_capture.png)
+![Screenshot]([IMG]http://i62.tinypic.com/xasa4w.png[/IMG])
